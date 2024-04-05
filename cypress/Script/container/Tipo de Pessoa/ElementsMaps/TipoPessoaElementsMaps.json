@@ -1,0 +1,6 @@
+{
+    "TipoPessoaLocators": {
+        "CheckStatus":".p-toast-message-content",
+        "IdFormGroup": "#formulario"
+    }
+}

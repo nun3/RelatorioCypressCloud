@@ -1,0 +1,15 @@
+{
+    "LoginPageLocators": {
+        "USERNAME": "#username",
+        "PASSWORD": "#password",
+        "BTN_LOGIN": "#btnLogin",
+        "COD_EMP": ".codigo-empresa",
+        "RECUPERARSENHA": ".recuperar-senha",
+        "ENVEMAIL": ".login-submit",
+        "ERROEMAIL": ".success-error-email",
+        "ERROLOGIN": ".error-message-alert",
+        "OBRIGATORIO": ".p-input-icon-right > .has-error",
+        "PERFIL": ".avatar-indefinido",
+        "BTNSAIR": ".mat-menu-content > :nth-child(7)"
+    }
+}
